@@ -46,6 +46,8 @@ background-repeat: no-repeat;
     height: auto;
 }
 
+
+
 .heroText {
     font-size: 0.8rem;
     padding-bottom: 2rem;
@@ -205,4 +207,17 @@ footer {
     .projectCard {
         max-width: 20%;
     }
+    
+    .abtMeImage img { 
+    
+        width: 50%;
+        height: auto;
+        border-radius: 6rem;
+        box-shadow: 10px 10px #000;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+
+    }
+
 }
