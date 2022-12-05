@@ -210,13 +210,12 @@ footer {
     
     .abtMeImage img { 
     
-        width: 50%;
+        width: 35%;
         height: auto;
         border-radius: 6rem;
         box-shadow: 10px 10px #000;
         display: flex;
         flex-wrap: wrap;
-        justify-content: flex-start;
 
     }
 
